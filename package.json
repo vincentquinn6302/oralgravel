@@ -1,0 +1,12 @@
+{
+  "name": "mock-server-349ee1",
+  "version": "1.0.0",
+  "description": "A mock server utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["mock-server", "utility"],
+  "license": "MIT"
+}

